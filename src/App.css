@@ -1,0 +1,41 @@
+/* header css */
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+.logo{
+  height: 44px;
+}
+
+.nav-bar{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.nav-bar span{
+  color: #6D6E71;
+}
+
+.nav-bar select{
+  color: #6D6E71;
+  background: none;
+  border: none;
+}
+
+.nav-bar select:focus{
+  outline: none;
+}
+
+.nav-bar button{
+  background: white;
+  border: none;
+  color: #00732F;
+  border: 1px solid #00732F;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
