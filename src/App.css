@@ -423,6 +423,10 @@
     margin: 40px;
     padding:  0;
   }
+  .footar-img-cont{
+    align-items: center;
+    width: 100%;
+  }
 }
 
 
