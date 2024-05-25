@@ -199,6 +199,7 @@
   background-image: url("./assets/play.png");
   z-index: 9999;
   background-size: cover;
+  background-position: center;
 }
 
 .banner-img img {
