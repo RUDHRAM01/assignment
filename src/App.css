@@ -419,13 +419,17 @@
     padding: 20px;
     justify-content: center;
   }
+  .about-cont {
+    margin: 40px;
+    padding:  0;
+  }
 }
 
 
 @media screen and (max-width: 1380px) {
   .about-cont {
     justify-content: center;
-    padding: 10px;
+    gap: 40px;
   }
   .about-cont .side2 {
     justify-content: center;
