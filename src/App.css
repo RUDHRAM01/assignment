@@ -427,6 +427,13 @@
     align-items: center;
     width: 100%;
   }
+  .footar-items-cont{
+    flex-direction: column;
+  }
+  .footar-side1{
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 
@@ -437,6 +444,5 @@
   }
   .about-cont .side2 {
     justify-content: center;
-
   }
 }
